@@ -1,0 +1,83 @@
+First questions
+
+1 How big is the website going to be? 
+    how many pages
+
+2 How much customization of design is required?
+    add animation and videos , creating a logo
+
+3 Is there additional functionality?
+    and admin page to change dishes , book appointments, allowing the clients to leave reviews and cements , delivery system
+
+4 how many products will you have?
+
+
+5 What is the main goal of the site? 
+    sell a product for example
+
+6 How will people find the site?
+    adds on social media for example or a  QR code
+
+7 How will the site prove credibility?
+    add testimonials for example
+
+8 What is the customer trying to discover?
+    getting to the menus as fast as posible
+
+9 What benefit will the landing page provide?
+    what will the first page provide 
+
+10 what is the theme of the restaurant?
+    colors and and style
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!
+
+red : For me 
+5 how big is the business  //do a Google search
+
+6  white glove service? 
+    How much attention will they need , making changes to the initial design
+
+!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!
+blue Initial thoughts
+red must have
+
+1 nav bar
+2 landing page
+3 menu items and information
+4 about us
+5 where to find us
+6 footer with my brand
+
+
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!
+red navBar
+
+1 Have the nav bar  in a clients position
+
+!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!
+red landing page
+
+1 Have a big circular photo of him  in the middle 
+2 In the middle bottom of the circular photo have the title(the name of the restaurant) 
+3 have tiny squares photos of the dishes surrounding the bottom of the circle 
+
+The title is going to have a fade-in animation in the letters 
+
+
+The square photos are going to be moving slightly and clicking on one of the square photos is going to take you to that time on the menu
