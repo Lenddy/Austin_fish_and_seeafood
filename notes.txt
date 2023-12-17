@@ -7,7 +7,7 @@ First questions
     add animation and videos , creating a logo
 
 3 Is there additional functionality?
-    and admin page to change dishes , book appointments, allowing the clients to leave reviews and cements , delivery system
+    and admin page to change dishes , book appointments, allowing the clients to leave reviews and cements , delivery system,common ask questions
 
 4 how many products will you have?
 
